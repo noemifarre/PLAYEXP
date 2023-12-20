@@ -30,18 +30,18 @@
     "autor": "Actualización",
     "titulo": "Minecraft Live 2023 ¡Nuevo contenido!",
     "srcimg": "https://i.ytimg.com/vi/6wGfWk0Y4Y4/maxresdefault.jpg",
-    "alt": "Texto alternativo de la imágen",
+    "alt": "Imagen del Minecraft Live",
     "texto": "El pasado 15 de octubre tuvo lugar la Minecraft Live 2023, desvelando nuevo contenido que llegará al juego principal.",
     "url": "https://www.somosxbox.com/estas-son-algunas-novedades-de-la-actualizacion-1-21-de-minecraft/1022616"
 },
 {
     "id": 5,
     "autor": "Novedad",
-    "titulo": "GOD OF WAR",
-    "srcimg": "https://picsum.photos/1024/480?random=1/",
-    "alt": "Texto alternativo de la imágen",
-    "texto": "Instrucciones: Aquí has de poner un texto descriptivo del proyecto. La imágen de cabecera debe tener una resolución de (1024/480 px)",
-    "url": "https://afrikiudl.github.io/practicawd/"
+    "titulo": "Nueva expansión de GOD OF WAR",
+    "srcimg": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2023/12/god-war-3244336.jpg?tf=1920x",
+    "alt": "Imagen del videojuego God of War",
+    "texto": "Este pasado dia 12 de diciembre salió la inesperada expansión: GOD OF WAR VALHALLA. Si quieres saber qué han puesto de nuevo, visita el link",
+    "url": "https://vandal.elespanol.com/noticia/1350767692/en-que-consiste-exactamente-god-of-war-ragnarok-valhalla-todo-lo-que-necesitas-saber/"
 },
 {
     "id": 6,
