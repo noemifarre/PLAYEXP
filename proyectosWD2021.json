@@ -3,41 +3,41 @@
     "autor": "Novedad",
     "titulo": "¡LEGO Fortnite explota las redes!",
     "srcimg": "https://cdn2.unrealengine.com/fnjn-01-egs-launcher-blade-2560x1440-2560x1440-cfb95e994e84.jpg",
-    "alt": "LEGO Fortnite",
-    "texto": "Desde el 7 de diciembre ya podemos jugar a LEGO Fortnite, se trata de una modalidad dentro del propio Fortnite.",
-    "url": "https://store.epicgames.com/es-ES/p/fortnite--lego"
+    "alt": "Imagen de LEGO Fortnite",
+    "texto": "Desde el 7 de diciembre ya podemos jugar a LEGO Fortnite, la nueva modalidad dentro de Fortnite.",
+    "url": "https://www.lego.com/es-es/themes/fortnite/about"
 },
 {
     "id": 2,
     "autor": "Top",
-    "titulo": "Los videojuegos más jugados esta semana",
-    "srcimg": "https://picsum.photos/1024/480?random=1/",
-    "alt": "Texto alternativo de la imágen",
-    "texto": "Instrucciones: Aquí has de poner un texto descriptivo del proyecto. La imágen de cabecera debe tener una resolución de (1024/480 px)",
-    "url": "https://afrikiudl.github.io/practicawd/"
+    "titulo": "Los videojuegos más jugados en 2023",
+    "srcimg": "https://cdn2.unrealengine.com/blade-2560x1440-2560x1440-d4e556fb8166.jpg",
+    "alt": "Imagen del videojuego Fortnite",
+    "texto": "Cada vez más empresas invierten recursos económicos y humanos en el desarrollo de videojuegos, pero hubo uno que arrasó. ¿Cúal es?",
+    "url": "https://billiken.lat/entretenimiento/cual-es-el-juego-mas-jugado-del-mundo-en-2023/"
 },
 {
     "id": 3,
     "autor": "Guia",
-    "titulo": "Trucos y consejos de Genshin Impact",
-    "srcimg": "https://picsum.photos/1024/480?random=1/",
-    "alt": "Texto alternativo de la imágen",
-    "texto": "Instrucciones: Aquí has de poner un texto descriptivo del proyecto. La imágen de cabecera debe tener una resolución de (1024/480 px)",
-    "url": "https://afrikiudl.github.io/practicawd/"
+    "titulo": "Guia completa LEGO Fortnite",
+    "srcimg": "https://media.vandal.net/master/12-2023/202312111544156_1.jpg",
+    "alt": "Imagen de la guia del videojuego LEGO Fortnite",
+    "texto": "¡Una nueva aventura muy emocionante te espera y con nuestra guia estarás al loro de todo!",
+    "url": "https://vandal.elespanol.com/guias/guia-lego-fortnite-trucos-consejos-y-secretos"
 },
 {
     "id": 4,
     "autor": "Actualización",
-    "titulo": "¡Ya está aquí Minecraft 1.20!",
-    "srcimg": "https://picsum.photos/1024/480?random=1/",
+    "titulo": "Minecraft Live 2023 ¡Nuevo contenido!",
+    "srcimg": "https://i.ytimg.com/vi/6wGfWk0Y4Y4/maxresdefault.jpg",
     "alt": "Texto alternativo de la imágen",
-    "texto": "Instrucciones: Aquí has de poner un texto descriptivo del proyecto. La imágen de cabecera debe tener una resolución de (1024/480 px)",
-    "url": "https://afrikiudl.github.io/practicawd/"
+    "texto": "El pasado 15 de octubre tuvo lugar la Minecraft Live 2023, desvelando nuevo contenido que llegará al juego principal.",
+    "url": "https://www.somosxbox.com/estas-son-algunas-novedades-de-la-actualizacion-1-21-de-minecraft/1022616"
 },
 {
     "id": 5,
-    "autor": "Actualización",
-    "titulo": "¡Ya está aquí Minecraft 1.20!",
+    "autor": "Novedad",
+    "titulo": "GOD OF WAR",
     "srcimg": "https://picsum.photos/1024/480?random=1/",
     "alt": "Texto alternativo de la imágen",
     "texto": "Instrucciones: Aquí has de poner un texto descriptivo del proyecto. La imágen de cabecera debe tener una resolución de (1024/480 px)",
@@ -45,11 +45,11 @@
 },
 {
     "id": 6,
-    "autor": "Actualización",
-    "titulo": "¡Ya está aquí Minecraft 1.20!",
-    "srcimg": "https://picsum.photos/1024/480?random=1/",
-    "alt": "Texto alternativo de la imágen",
-    "texto": "Instrucciones: Aquí has de poner un texto descriptivo del proyecto. La imágen de cabecera debe tener una resolución de (1024/480 px)",
-    "url": "https://afrikiudl.github.io/practicawd/"
+    "autor": "Guia",
+    "titulo": "La guia DEFINITIVA de Genshin Impact",
+    "srcimg": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2021/11/genshin-impact-2519455.jpg?tf=3840x",
+    "alt": "Imagen del videojuego Genshin Impact",
+    "texto": "Guia donde podrás encontrar los mejores trucos, secretos y consejos de Genshin Impact para todas las plataformas.",
+    "url": "https://www.vidaextra.com/guia-completa/guia-genshin-impact-trucos-secretos-mejores-consejos"
 }
 ]
