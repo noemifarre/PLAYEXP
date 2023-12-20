@@ -1,56 +1,55 @@
 [{
-        "id": 1,
-        "autor": "Sábado 21 de Febrero (11am)",
-        "titulo": "Coloquio: Música Terrenal",
-        "srcimg": "https://picsum.photos/id/19/1024/480",
-        "alt": "Detalle de musgo en el tronco de un gran árbol",
-        "texto": "¿Cuáles son nuestras raíces musicales? Una charla sobre los orígenes en el ámbito sonoro. A cargo de Martina Trejo.",
-        "url": "http://www.google.com"
-    },
-    {
-        "id": 2,
-        "autor": "Domingo 22 de Febrero (11am)",
-        "titulo": "Coloquio: Sensibilidades Femeninas",
-        "srcimg": "https://picsum.photos/id/152/1024/480",
-        "alt": "Flor detalle de petunias violetas",
-        "texto": "Una reflexión sobre la mutabilidad de las nuevas identidades. A cargo de Mariví Arnal.",
-        "url": "http://www.google.com"
-    },
-    {
-        "id": 3,
-        "autor": "Sábado 21 y Domingo 22 de Febrero",
-        "titulo": "Exposición: Pervasividad Instrumental",
-        "srcimg": "https://picsum.photos/id/39/1024/480",
-        "alt": "Detalle vinilo",
-        "texto": "Una inviatación a la experimentación y fisicalidad de la música. Comisionada por Gabriela Salgado.",
-        "url": "http://www.google.com"
-    },
-    {
-        "id": 4,
-        "autor": "Domingo 22 de Febrero (5pm)",
-        "titulo": "Concierto: Clamor Betha",
-        "srcimg": "https://picsum.photos/id/304/1024/480",
-        "alt": "Mano persona tocando una mesa de mezclas",
-        "texto": "Música electrónica y experimental, que rompe los esquemas y altera los géneros. Por Gemma Bern y Paul Hans.",
-        "url": "http://www.google.com"
-    },
-    {
-        "id": 5,
-        "autor": "Sábado 21 de Febrero (10pm)",
-        "titulo": "Concierto: La Ronda del Milagro",
-        "srcimg": "https://picsum.photos/id/117/1024/480",
-        "alt": "Escenario en vivo, luces brillantes",
-        "texto": "El grupo local Las Chavas liderado por Salva Méndez. Propuesta en la que futuro y raíces se unen en unísono.",
-        "url": "http://www.google.com"
-    },
-    {
-        "id": 6,
-        "autor": "Domingo 22 de Febrero (9pm)",
-        "titulo": "Concierto: Las Perlas",
-        "srcimg": "https://picsum.photos/id/179/1024/480",
-        "alt": "Orilla del mar rocosa",
-        "texto": "Clausura del certamen con la artista Rala, con un espectáculo en el que el mar y tecnología unen fuerzas en una propuesta sin igual.",
-        "url": "http://www.google.com"
-    }
-
+    "id": 1,
+    "autor": "Novedad",
+    "titulo": "¡LEGO Fortnite explota las redes!",
+    "srcimg": "https://cdn2.unrealengine.com/fnjn-01-egs-launcher-blade-2560x1440-2560x1440-cfb95e994e84.jpg",
+    "alt": "LEGO Fortnite",
+    "texto": "Desde el 7 de diciembre ya podemos jugar a LEGO Fortnite, se trata de una modalidad dentro del propio Fortnite.",
+    "url": "https://store.epicgames.com/es-ES/p/fortnite--lego"
+},
+{
+    "id": 2,
+    "autor": "Top",
+    "titulo": "Los videojuegos más jugados esta semana",
+    "srcimg": "https://picsum.photos/1024/480?random=1/",
+    "alt": "Texto alternativo de la imágen",
+    "texto": "Instrucciones: Aquí has de poner un texto descriptivo del proyecto. La imágen de cabecera debe tener una resolución de (1024/480 px)",
+    "url": "https://afrikiudl.github.io/practicawd/"
+},
+{
+    "id": 3,
+    "autor": "Guia",
+    "titulo": "Trucos y consejos de Genshin Impact",
+    "srcimg": "https://picsum.photos/1024/480?random=1/",
+    "alt": "Texto alternativo de la imágen",
+    "texto": "Instrucciones: Aquí has de poner un texto descriptivo del proyecto. La imágen de cabecera debe tener una resolución de (1024/480 px)",
+    "url": "https://afrikiudl.github.io/practicawd/"
+},
+{
+    "id": 4,
+    "autor": "Actualización",
+    "titulo": "¡Ya está aquí Minecraft 1.20!",
+    "srcimg": "https://picsum.photos/1024/480?random=1/",
+    "alt": "Texto alternativo de la imágen",
+    "texto": "Instrucciones: Aquí has de poner un texto descriptivo del proyecto. La imágen de cabecera debe tener una resolución de (1024/480 px)",
+    "url": "https://afrikiudl.github.io/practicawd/"
+},
+{
+    "id": 5,
+    "autor": "Actualización",
+    "titulo": "¡Ya está aquí Minecraft 1.20!",
+    "srcimg": "https://picsum.photos/1024/480?random=1/",
+    "alt": "Texto alternativo de la imágen",
+    "texto": "Instrucciones: Aquí has de poner un texto descriptivo del proyecto. La imágen de cabecera debe tener una resolución de (1024/480 px)",
+    "url": "https://afrikiudl.github.io/practicawd/"
+},
+{
+    "id": 6,
+    "autor": "Actualización",
+    "titulo": "¡Ya está aquí Minecraft 1.20!",
+    "srcimg": "https://picsum.photos/1024/480?random=1/",
+    "alt": "Texto alternativo de la imágen",
+    "texto": "Instrucciones: Aquí has de poner un texto descriptivo del proyecto. La imágen de cabecera debe tener una resolución de (1024/480 px)",
+    "url": "https://afrikiudl.github.io/practicawd/"
+}
 ]
